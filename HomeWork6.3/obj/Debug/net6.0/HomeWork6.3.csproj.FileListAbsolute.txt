@@ -1,0 +1,15 @@
+E:\GIT\HomeWork6.3\bin\Debug\net6.0\HomeWork6.3.exe
+E:\GIT\HomeWork6.3\bin\Debug\net6.0\HomeWork6.3.deps.json
+E:\GIT\HomeWork6.3\bin\Debug\net6.0\HomeWork6.3.runtimeconfig.json
+E:\GIT\HomeWork6.3\bin\Debug\net6.0\HomeWork6.3.dll
+E:\GIT\HomeWork6.3\bin\Debug\net6.0\HomeWork6.3.pdb
+E:\GIT\HomeWork6.3\obj\Debug\net6.0\HomeWork6.3.csproj.AssemblyReference.cache
+E:\GIT\HomeWork6.3\obj\Debug\net6.0\HomeWork6.3.GeneratedMSBuildEditorConfig.editorconfig
+E:\GIT\HomeWork6.3\obj\Debug\net6.0\HomeWork6.3.AssemblyInfoInputs.cache
+E:\GIT\HomeWork6.3\obj\Debug\net6.0\HomeWork6.3.AssemblyInfo.cs
+E:\GIT\HomeWork6.3\obj\Debug\net6.0\HomeWork6.3.csproj.CoreCompileInputs.cache
+E:\GIT\HomeWork6.3\obj\Debug\net6.0\HomeWork6.3.dll
+E:\GIT\HomeWork6.3\obj\Debug\net6.0\refint\HomeWork6.3.dll
+E:\GIT\HomeWork6.3\obj\Debug\net6.0\HomeWork6.3.pdb
+E:\GIT\HomeWork6.3\obj\Debug\net6.0\HomeWork6.3.genruntimeconfig.cache
+E:\GIT\HomeWork6.3\obj\Debug\net6.0\ref\HomeWork6.3.dll
